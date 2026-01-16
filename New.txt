@@ -1,0 +1,8 @@
+new_project 123
+second line
+new line
+new new line 123
+
+jetbrains pycharm (триал)
+
+commit / push / (pull request) в контексте пайчарм
